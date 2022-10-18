@@ -1,0 +1,31 @@
+.loginpage{
+    /* height: 500px; */
+    width: 350px;
+    display: flex;
+    flex-direction: column;
+    padding: 15px;
+    border-radius: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    box-shadow: 3px 5px 5px rgba(73, 72, 72, 0.795);
+    background-color:  rgba(0, 174, 255, 0.829);
+}
+.iclass{
+    height: 40px;
+    border: 2px solid blue;
+    border-radius: 5px;
+    margin: 5px 10px;
+}
+.submit{
+    height: 40px;
+    width: 250px;
+    margin: 15px 10px;
+    color: white;
+    border: none;
+    background-color:rgba(162, 135, 235, 0.712);
+}
+
+.tr{
+    border: 1px black solid;
+}
